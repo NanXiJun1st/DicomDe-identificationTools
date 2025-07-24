@@ -1,0 +1,2 @@
+# FreeDicomDe-identificationTools
+一款免费的dicom脱敏工具
